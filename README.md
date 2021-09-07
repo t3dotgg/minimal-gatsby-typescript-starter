@@ -1,3 +1,11 @@
+## Update
+
+I can't in good faith recommend Gatsby at this point in time. Thankfully there are lots of better options. [Next.js](https://nextjs.org/) is a great bet.
+
+I will do my best to maintain my "current recommendations" on [init.tips](https://init.tips).
+
+I am archiving this repo now.
+
 ### Minimal Gatsby Typescript Starter (with some opinions)
 
 This is my minimal starter for Gatsby+Typescript web apps. I use this combo a lot so I boiled down the essentials into one package.
